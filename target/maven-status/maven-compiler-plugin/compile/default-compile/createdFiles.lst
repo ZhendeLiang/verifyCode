@@ -1,0 +1,7 @@
+com\liangzd\verifyCode\mail\MailVerifyCode.class
+com\liangzd\verifyCode\phone\PhoneConfiguration.class
+com\liangzd\verifyCode\phone\PhoneVerifyCode.class
+com\liangzd\verifyCode\image\ImageVerifyCode.class
+com\liangzd\verifyCode\mail\MailConfiguration.class
+com\liangzd\verifyCode\mail\MailVerifyCode$1.class
+com\liangzd\verifyCode\phone\CheckSumBuilder.class
